@@ -1,0 +1,16 @@
+body {
+    background-color: lightcoral;
+    text-align: center;
+}
+
+.navbar {
+    background-color: blueviolet;
+}
+
+a {
+    color: #lightcoral;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
