@@ -1,14 +1,14 @@
 body {
-    background-color: lightcoral;
+    background-color: #688ed9;
     text-align: center;
 }
 
 .navbar {
-    background-color: blueviolet;
+    background-color: #172d36;
 }
 
 a {
-    color: #lightcoral;
+    color: #f0f5f4;
 }
 
 a:hover {
